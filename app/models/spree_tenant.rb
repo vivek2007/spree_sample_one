@@ -1,0 +1,2 @@
+class SpreeTenant < ApplicationRecord
+end
